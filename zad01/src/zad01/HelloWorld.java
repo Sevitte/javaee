@@ -2,7 +2,7 @@ package zad01;
 
 public class HelloWorld 
 {
-	public static void helloWorld()
+	public static void helloWorld(String args[])
 	{
 		System.out.println("Hello World!");
 	}
