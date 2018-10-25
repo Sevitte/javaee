@@ -27,3 +27,8 @@ target/
 tmp/
 logs/
 log/
+.metadata/
+.recommenders/
+Ants/
+apache-maven-3.5.4-bin/
+servletjspdemo-master/
