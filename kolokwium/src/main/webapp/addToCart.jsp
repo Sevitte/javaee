@@ -20,7 +20,7 @@
     <h2>Dodano do koszyka</h2>
     <p>
         <a href="summary.jsp">Podsumowanie</a><br>
-        <a href="buyFlat.jsp">Powrót do zakupów</a>
+        <a href="buyPerfume.jsp">Powrót do zakupów</a>
     </p>
 
 </body>
